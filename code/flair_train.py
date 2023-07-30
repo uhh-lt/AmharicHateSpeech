@@ -40,5 +40,5 @@ trainer = ModelTrainer(classifier, corpus)
 trainer.fine_tune('resources/taggers/hate-classification-with-flair',
                   learning_rate=5.0e-5,
                   mini_batch_size=4,
-                  max_epochs=33,
+                  max_epochs=10,
                  )
