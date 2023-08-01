@@ -1,7 +1,7 @@
 
  [![](../../logo.png)](https://github.com/uhh-lt/amharicmodels/)
 # Introduction
-The Amharic Hate Speech data is collected using the Twitter API spanning from October 1, 2020 - NOvember 30, 2022 considering the scio-political daynamics of Ethiopia in Twitter space. We used [WEbAnno](http://ltdemos.informatik.uni-hamburg.de/codebookanno-cba/) tool for data annotation; each tweet is annotated by two native speakers and curated by one more experianced adjudicator to deremined the gold labels. A totoal of 15.1k tweets consisting of three class labels namely: Hate, Offenisve and Normal are presented. Read our papers[URL to reased sooon] for more details about the dataset.
+The Amharic Hate Speech data is collected using the Twitter API spanning from October 1, 2020 - NOvember 30, 2022 considering the scio-political daynamics of Ethiopia in Twitter space. We used [WEbAnno](http://ltdemos.informatik.uni-hamburg.de/codebookanno-cba/) tool for data annotation; each tweet is annotated by two native speakers and curated by one more experianced adjudicator to deremine the gold labels. A totoal of 15.1k tweets consisting of three class labels namely: Hate, Offenisve and Normal are presented. Read our papers[URL to reased sooon] for more details about the dataset.
 
 # Amharic Hate Speech Data Annotation: Lab Controlled Annotation
 The dataset is annotated by two annotators and a curator to determine the gold labels.  
