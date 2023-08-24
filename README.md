@@ -1,5 +1,7 @@
-# Amharic Hate Speech
-Amharic Hate Speech - Dataset and classification Models
+# Amharic Hate Speech: Datasets and Classification Models
+### In this page we are introducing two datasets on Amharic hate speech detection and classification models:
+1. ICT4D Dataset: This dataset is a Crowdsourced dataset of 5.3k tweets collected for our paper entittled <span style="color:red">some **The 5js in ethiopia: Amharic hate speech data annotation using toloka crowdsourcing platform.** text</span> Each tweet in the datset is annotated with three annotatotrs on YANDEX TOLOKA CROWDSOURCING PLATFORM and the gold labels are selected based on majority voting scheme.
+
 
 Content
 1. [Train Model](/code/README.md)
