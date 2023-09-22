@@ -11,6 +11,8 @@ On this page, we are introducing two datasets on Amharic hate speech detection a
 ----
 **Please read our paper for the details**
 
+**Exploring Amharic Hate Speech Data Collection and Classification Approaches**
+
 ```
 @INPROCEEDINGS{9971385,  
 author={Ayele, Abinew Ali and Yimam, Seid Muhie and Belay, Tadesse Destaw and Asfaw, Tesfa and  Biemann, Chris},  
