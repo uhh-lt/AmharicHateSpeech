@@ -1,3 +1,5 @@
+###  :tada: :tada:  :tada: The Amharic Hate Speech Dataset uploaded in Huggingface [Amharic Hate Speech](https://huggingface.co/datasets/uhhlt/amharichatespeechranlp) :tada: :tada: :tada:  
+
 # Amharic Hate Speech: Datasets and Classification Models
 
 In this page we are introducing two datasets on Amharic hate speech detection and classification models:
