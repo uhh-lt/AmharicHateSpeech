@@ -1,7 +1,9 @@
 # Amharic Hate Speech: Datasets and Classification Models
-### In this page we are introducing two datasets on Amharic hate speech detection and classification models:
+
+In this page we are introducing two datasets on Amharic hate speech detection and classification models:
 
 ## Title 1: The 5js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform
+
 ## Title 2: Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform
 
 ICT4D-2022 Dataset: This dataset is a Crowdsourced dataset of 5.3k tweets collected for our paper entittled <span style="color:red">**The 5js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform.**</span> and presented in The 4th ICT4DA Conference 2022, Bahir Dar, Ethiopia. The 2nd Paper is presented in WiNLP2022 co-located with EMNLP2022, Abu Dhabi, United Arab Emirates. Each tweet in the datset is annotated with three annotatotrs on Yandex Toloka Crowdsourcing plantform
