@@ -9,7 +9,7 @@ On this page, we are introducing two datasets on Amharic hate speech detection a
 1. [Dataset One](Data/RANLP2023)
 1. [Dataset Two](Data/ICT4DA)
 ----
-**Please read our paper for the details**
+Please read our papers for the details
 
 **Exploring Amharic Hate Speech Data Collection and Classification Approaches**
 
