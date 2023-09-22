@@ -6,7 +6,7 @@
 On this page, we are introducing two datasets on Amharic hate speech detection and classification models:
 
 ----
-1. [Dataset One](https://github.com/uhh-lt/AmharicHateSpeech/wiki/Dataset-One)
+1. [Dataset One](Data/RANLP2023)
 1. [Dataset Two](https://github.com/uhh-lt/AmharicHateSpeech/wiki/Dataset-Two)
 ----
 **Please read our paper for the details**
