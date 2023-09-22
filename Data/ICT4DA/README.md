@@ -9,27 +9,10 @@ The dataset contains train/test datasets with Tweet_id, tweet, and label. The da
 
 
 
-For more details, You can read our papers entitled:
-1. Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform (URL to be released soon)
+For more details, You can read our papers:
+1. The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform (URL to be released soon)
 
 ** How to cite our paper:
-```
-@inproceedings{ayelechallenges,
-  title={Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform},
-  author={Ayele, Abinew Ali and Belay, Tadesse Destaw and Yimam, Seid Muhie and Dinter, Skadi and Asfaw, Tesfa Tegegne and Biemann, Chris},
- booktitle = {Proceedings of the The Sixth Widening NLP Workshop (WiNLP)},
-  year = {2022},
-  address = {Abu Dhabi, United Arab Emirates},
-  publisher = {Association for Computational Linguistics},
-  url = {https://aclanthology.org/2022.winlp-1.0},
-}
-
-```
-**
-2. The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform (URL to be released soon)
-
-
-** How to cite our paper
 ```
 @inproceedings{ayele20225js,
   title={{The 5Js in Ethiopia: Amharic hate speech data annotation using Toloka Crowdsourcing Platform}},
@@ -39,6 +22,25 @@ For more details, You can read our papers entitled:
   year={2022},
   url = {https://ieeexplore.ieee.org/document/9971189},
   address ={Bahir Dar, Ethiopia},
+}
+
+```
+
+**
+
+
+Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform
+
+** How to cite our paper
+```
+@inproceedings{ayelechallenges,
+  title={Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform},
+  author={Ayele, Abinew Ali and Belay, Tadesse Destaw and Yimam, Seid Muhie and Dinter, Skadi and Asfaw, Tesfa Tegegne and Biemann, Chris},
+ booktitle = {Proceedings of the The Sixth Widening NLP Workshop (WiNLP)},
+  year = {2022},
+  address = {Abu Dhabi, United Arab Emirates},
+  publisher = {Association for Computational Linguistics},
+  url = {https://aclanthology.org/2022.winlp-1.0},
 }
 
 ```
