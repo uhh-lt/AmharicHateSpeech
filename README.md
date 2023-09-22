@@ -38,7 +38,7 @@ location = {Varna, Bulgaria}
 }
 ```
 
-**
+**Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform**
 ```
 @inproceedings{ayelechallenges,
   title={Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform},
