@@ -25,8 +25,10 @@ For more details, You can read our papers entitled:
 }
 
 ```
-
+**
 2. The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform (URL to be released soon)
+
+```
 @inproceedings{ayele20225js,
   title={{The 5Js in Ethiopia: Amharic hate speech data annotation using Toloka Crowdsourcing Platform}},
   author={Ayele, Abinew Ali and Dinter, Skadi and Belay, Tadesse Destaw and Asfaw, Tesfa Tegegne and Yimam, Seid Muhie and Biemann, Chris},
