@@ -14,7 +14,7 @@ For more details, You can read our papers entitled:
 2. The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform (URL to be released soon)
 
 
-
+** How to cite our paper:
 ```
 @inproceedings{ayele20225js,
   title={{The 5Js in Ethiopia: Amharic hate speech data annotation using Toloka Crowdsourcing Platform}},
