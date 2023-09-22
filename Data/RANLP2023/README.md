@@ -12,7 +12,8 @@ For more details, You can read our paper entitled:
 1. train/dev/test.tsv
 
    
-3. with annotation
+3. with_annotators_train/test/dev.csv
+   
 [Exploring Amharic Hate Speech data Collection and Classification Approaches](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-ayele-et-al-hate-ranlp.pdf)
 
    
