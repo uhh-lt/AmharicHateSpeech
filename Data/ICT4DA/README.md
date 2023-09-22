@@ -9,11 +9,11 @@ The dataset contains train/test datasets with Tweet_id, tweet, and label. The da
 
 
 
-For more details, You can read our papers:\\
+For more details, You can read our papers:\
 
 1. The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform (URL to be released soon)
 
-** How to cite our paper:
+How to cite our paper:
 ```
 @inproceedings{ayele20225js,
   title={{The 5Js in Ethiopia: Amharic hate speech data annotation using Toloka Crowdsourcing Platform}},
@@ -30,7 +30,7 @@ For more details, You can read our papers:\\
 
 2. Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform
 
-** How to cite our paper
+ How to cite our paper
 ```
 @inproceedings{ayelechallenges,
   title={Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform},
