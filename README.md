@@ -25,7 +25,7 @@ location = {Varna, Bulgaria}
 ```
 
 
-**The 5Js in Ethiopia: Amharic hate speech data annotation using Toloka Crowdsourcing Platform**
+**The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform**
 ```
 @inproceedings{ayele20225js,
   title={{The 5Js in Ethiopia: Amharic hate speech data annotation using Toloka Crowdsourcing Platform}},
