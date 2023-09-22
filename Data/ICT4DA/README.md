@@ -8,7 +8,6 @@ We collected the Amharic Hate Speech dataset from Twitter using the Twitter API 
 The dataset contains train/test datasets with Tweet_id, tweet, and label. The dataset is annotated by three independent annotators or tolokers on Toloka crowdsourcing tool, and the gold_label is determined with majority voting.
 
 
-
 For more details, You can read our papers:
 
 1. The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform
