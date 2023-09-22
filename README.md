@@ -2,7 +2,9 @@
 
 # Amharic Hate Speech: Datasets and Classification Models
 
-On this page we are introducing two datasets on Amharic hate speech detection and classification models:
+On this page, we are introducing two datasets on Amharic hate speech detection and classification models:
+[Dataset One]()
+[Dataset Two]()
 
 **Please read our paper for the details**
 
