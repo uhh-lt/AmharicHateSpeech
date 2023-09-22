@@ -20,3 +20,16 @@ year={2023},
 location = {Varna, Bulgaria}
 }
 ```
+
+
+```
+@inproceedings{ayele20225js,
+  title={{The 5Js in Ethiopia: Amharic hate speech data annotation using Toloka Crowdsourcing Platform}},
+  author={Ayele, Abinew Ali and Dinter, Skadi and Belay, Tadesse Destaw and Asfaw, Tesfa Tegegne and Yimam, Seid Muhie and Biemann, Chris},
+  booktitle={2022 International Conference on Information and Communication Technology for Development for Africa (ICT4DA)},
+  pages={114--120},
+  year={2022},
+  url = {https://ieeexplore.ieee.org/document/9971189},
+  address ={Bahir Dar, Ethiopia},
+}
+```
