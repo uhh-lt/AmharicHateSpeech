@@ -11,16 +11,19 @@ For more details, You can read our paper entitled:
 ## Details of the data
 1. train/dev/test.csv
 
+This dataset is ready-made for direct experiments and contains tweet_Id, tweet, and labels for the train/dev/test split datasets. 
    
 3. with_annotators_train/test/dev.csv
-   
-[Exploring Amharic Hate Speech data Collection and Classification Approaches](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-ayele-et-al-hate-ranlp.pdf)
+
+This dataset is presented with every detail of annotations by two native speakers and the curator for researchers who want to explore our dataset in detail. 
+
+[Exploring Amharic Hate Speech Data Collection and Classification Approaches](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-ayele-et-al-hate-ranlp.pdf)
 
    
 ```
 @INPROCEEDINGS{9971385,  
 author={Ayele, Abinew Ali and Yimam, Seid Muhie and Belay, Tadesse Destaw and Asfaw, Tesfa and  Biemann, Chris},  
-booktitle={the 14th Conference RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING (RANLP 2023},   
+booktitle={Proceedings of the 14th Conference on RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING (RANLP 2023},   
 title={Exploring Amharic Hate Speech Data Collection and Classification Approaches},   
 year={2023},    
 location = {Varna, Bulgaria}
