@@ -20,7 +20,3 @@ year={2023},
 location = {Varna, Bulgaria}
 }
 ```
-
-Content
-1. [Train Model](/code/README.md)
-2. [Dataset]()
