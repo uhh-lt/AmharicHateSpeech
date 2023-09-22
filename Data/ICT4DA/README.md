@@ -12,3 +12,18 @@ The dataset contains train/test datasets with Tweet_id, tweet, and label. The da
 For more details, You can read our papers entitled:
 1. Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform (URL to be released soon)
 2. The 5Js in Ethiopia: Amharic Hate Speech Data Annotation Using Toloka Crowdsourcing Platform (URL to be released soon)
+
+
+
+```
+@inproceedings{ayele20225js,
+  title={{The 5Js in Ethiopia: Amharic hate speech data annotation using Toloka Crowdsourcing Platform}},
+  author={Ayele, Abinew Ali and Dinter, Skadi and Belay, Tadesse Destaw and Asfaw, Tesfa Tegegne and Yimam, Seid Muhie and Biemann, Chris},
+  booktitle={2022 International Conference on Information and Communication Technology for Development for Africa (ICT4DA)},
+  pages={114--120},
+  year={2022},
+  url = {https://ieeexplore.ieee.org/document/9971189},
+  address ={Bahir Dar, Ethiopia},
+}
+
+```
