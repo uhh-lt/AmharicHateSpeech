@@ -33,3 +33,15 @@ location = {Varna, Bulgaria}
   address ={Bahir Dar, Ethiopia},
 }
 ```
+**
+```
+@inproceedings{ayelechallenges,
+  title={Challenges of Amharic Hate Speech Data Annotation Using Yandex Toloka Crowdsourcing Platform},
+  author={Ayele, Abinew Ali and Belay, Tadesse Destaw and Yimam, Seid Muhie and Dinter, Skadi and Asfaw, Tesfa Tegegne and Biemann, Chris},
+ booktitle = {Proceedings of the The Sixth Widening NLP Workshop (WiNLP) co-located with EMNLP 2022},
+  year = {2022},
+  address = {Abu Dhabi, United Arab Emirates},
+  publisher = {Association for Computational Linguistics},
+  url = {https://aclanthology.org/2022.winlp-1.0},
+}
+```
