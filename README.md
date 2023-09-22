@@ -13,8 +13,8 @@ On this page, we are introducing two datasets on Amharic hate speech detection a
 
 ```
 @INPROCEEDINGS{9971385,  
-author={Ayele, Abinew Ali and Yimam, Seid Muhie and Asfaw, Tesfa and  Biemann, Cchris},  
-booktitle={the 14th Conference RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING (RANLP 2023},   
+author={Ayele, Abinew Ali and Yimam, Seid Muhie and Belay, Tadesse Destaw and Asfaw, Tesfa and  Biemann, Chris},  
+booktitle={Proceedings of the 14th International Conference on RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING (RANLP 2023},   
 title={Exploring Amharic Hate Speech Data Collection and Classification Approaches},   
 year={2023},    
 location = {Varna, Bulgaria}
