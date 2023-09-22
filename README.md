@@ -23,7 +23,9 @@ year={2023},
 location = {Varna, Bulgaria}
 }
 ```
-** 
+
+
+**The 5Js in Ethiopia: Amharic hate speech data annotation using Toloka Crowdsourcing Platform**
 ```
 @inproceedings{ayele20225js,
   title={{The 5Js in Ethiopia: Amharic hate speech data annotation using Toloka Crowdsourcing Platform}},
