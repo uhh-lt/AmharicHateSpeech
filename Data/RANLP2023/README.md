@@ -6,7 +6,7 @@ The Amharic Hate Speech data is collected using the Twitter API spanning from Oc
 # Amharic Hate Speech Data Annotation: Lab-Controlled Annotation
 The dataset is annotated by two annotators and a curator to determine the gold labels.  
 
-For more details, You can read our paper entitled:
+For more details, You can read our paper
 
 ## Details of the data
 1. train/dev/test.csv
@@ -24,7 +24,8 @@ This dataset is presented with every detail of annotations by two native speaker
 @INPROCEEDINGS{9971385,  
 author={Ayele, Abinew Ali and Yimam, Seid Muhie and Belay, Tadesse Destaw and Asfaw, Tesfa and  Biemann, Chris},  
 booktitle={Proceedings of the 14th International Conference on RECENT ADVANCES IN NATURAL LANGUAGE PROCESSING (RANLP 2023},   
-title={Exploring Amharic Hate Speech Data Collection and Classification Approaches},   
+title={Exploring Amharic Hate Speech Data Collection and Classification Approaches},
+pages={59--59}, 
 year={2023},    
 location = {Varna, Bulgaria}
 }
