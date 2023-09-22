@@ -9,7 +9,7 @@ The dataset is annotated by two annotators and a curator to determine the gold l
 For more details, You can read our paper entitled:
 
 ## Details of the data
-1. train/dev/test.tsv
+1. train/dev/test.csv
 
    
 3. with_annotators_train/test/dev.csv
