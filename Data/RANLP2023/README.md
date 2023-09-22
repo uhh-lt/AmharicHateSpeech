@@ -15,7 +15,7 @@ This dataset is ready-made for direct experiments and contains tweet_Id, tweet, 
    
 3. with_annotators_train/test/dev.csv
 
-This dataset is presented with every detail of annotations by two native speakers and the curator for researchers who want to explore our dataset in detail. 
+This dataset is presented with every detail of annotations by two native speakers and the curator for researchers who want to explore our dataset in more detail. 
 
 [Exploring Amharic Hate Speech Data Collection and Classification Approaches](https://www.inf.uni-hamburg.de/en/inst/ab/lt/publications/2023-ayele-et-al-hate-ranlp.pdf)
 
