@@ -14,7 +14,7 @@ On this page, we are introducing four datasets on Amharic hate speech detection 
 ----
 
 # Code
-The code for **HateMem is available [Here](Code/HateMem)
+The code for **HateMem** is available [Here](Code/HateMem)
 
 
 Please read our papers for the details
