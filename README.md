@@ -35,7 +35,7 @@ location = {Torino, Italy}
 **Exploring Boundaries and Intensities in Offensive and Hate Speech: Unveiling the Complex Spectrum of Social Media Discourse**
 
 ```
-@INPROCEEDINGS{melese2024,  
+@INPROCEEDINGS{ayele-exploring2024,  
 author={Abinew Ali Ayele and Esubalew Alemneh Jalew and Adem Chanie Ali and  and Seid Muhie Yimam and Chris Biemann},  
 booktitle={Proceedings of The Fourth Workshop on Threat, Aggression & Cyberbullying },   
 title={Exploring Boundaries and Intensities in Offensive and Hate Speech: Unveiling the Complex Spectrum of Social Media Discourse},
