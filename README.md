@@ -9,7 +9,7 @@ On this page, we are introducing four datasets on Amharic hate speech detection 
 ----
 1. [Dataset RANLP](Data/RANLP2023)
 1. [Dataset ICT4DA](Data/ICT4DA)
-2. [Dataset TRAC-Target and Intensity](Data/Intensity)
+2. [Dataset TRAC-Hatred-Target and Intensity](Data/Intensity)
 3. [Dataset HateMem](Data/HateMem)
 ----
 
