@@ -1,5 +1,5 @@
 # Hate Speech Category, Target and Intesnsity Annotation
 
-[Category](/Category)
+[Category](Category)
 
-[Intensity](/Intensity)
+[Intensity](Intensity)
